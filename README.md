@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yzd11
 - 👀 I’m interested in basketball and songs，such as jay and Taylor
-- 🌱 I’m currently learning c language and want to develop an interesting software
+- 🌱 I'm looking forward to doing something interesting
 - 💞️ I’m looking to collaborate on learn more things
 - 📫 You can contact me via my email 1794628601@qq.com
 
