@@ -31,7 +31,7 @@ I am a junior software engineering student with some knowledge of java backend d
 
 <p align="center">
 <a href= "https://github.com/yzd11/yzd11.github.io/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://blog.csdn.net/yzd111/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://blog.csdn.net/yzd111/"><img src="https://www.jianguoyun.com/p/DYvceQ0QrdTYDBjG598FIAA"/></a>
 <a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "https://yzd.life"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
