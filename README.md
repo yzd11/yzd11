@@ -2,6 +2,13 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+computer+world+!;Computers+are+not+magic+!)
 ![](https://www.jianguoyun.com/c/tblv2/ZzVOiYjuvOj3P5RPGiW_hKwApZ2GOzUkqBz4bbP1ARHFb5Wn8_HU0ygDS6nfoJg39_gdfwni/nQir_mWOtAanCCKiS1kCEnzPzlMjoUrdXu9KWW-UKLE/l)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yzd11/yzd11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yzd11/yzd11/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yzd11/yzd11/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 I am a junior software engineering student with knowledge in Java backend development and currently learning about machine learning.
 
 * 💼 Student at Zhengzhou Light Industry University.
