@@ -19,8 +19,8 @@ I am a junior software engineering student with some knowledge of java backend d
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzd11&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yzd11&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=yzd11&column=7" alt="halfrost's Github Trophy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yzd11&line_height=21" alt="yzd11's Github Stats" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=yzd11&column=7" alt="yzd11's Github Trophy" />
 </p>
 
 </details>
@@ -30,8 +30,8 @@ I am a junior software engineering student with some knowledge of java backend d
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://github.com/yzd11/yzd11.github.io/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://blog.csdn.net/yzd111/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "https://yzd.life"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
