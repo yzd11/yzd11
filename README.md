@@ -1,70 +1,48 @@
 # 🙋 Hello there 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+computer+world+!;Computers+are+not+magic+!)
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+computer+world+!;Computers+are+not+magic+!)
 ![](https://www.jianguoyun.com/c/tblv2/ZzVOiYjuvOj3P5RPGiW_hKwApZ2GOzUkqBz4bbP1ARHFb5Wn8_HU0ygDS6nfoJg39_gdfwni/nQir_mWOtAanCCKiS1kCEnzPzlMjoUrdXu9KWW-UKLE/l)
 
-I am a junior software engineering student with some knowledge of java backend development and am currently learning about the field of machine learning.
+I am a junior software engineering student with knowledge in Java backend development and currently learning about machine learning.
 
-* 💼   A student at Zhengzhou Light Industry University.
-* 🌱   Currently learning Machine learning, java, operating systems, computer networks, data structures, algorithms, principles of computer composition .
-* 📚   Reading 《Computer Networks, Seventh Edition》.
-* 💻   Two or more years of computer science literacy studies
-* ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://yzd.life/).
+* 💼 Student at Zhengzhou Light Industry University.
+* 🌱 Currently learning Machine Learning, Java, Operating Systems, Computer Networks, Data Structures, Algorithms, Principles of Computer Composition.
+* 📚 Reading *Computer Networks, Seventh Edition*.
+* 💻 Two or more years of computer science literacy studies.
+* ⛵ Encouraging open-source collaborations.
+* ✍🏻 Writing about Programming & Tech on [Personal Blog](https://yzd.life/).
 
 <details>
-  <summary>Some other achievements about me~e~e</summary>
+  <summary>Some other achievements about me</summary>
   <br>
 
-* 👑   Some GitHub statistical reports:
+* 👑 GitHub statistical reports:
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yzd11&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yzd11&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite) 
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yzd11&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yzd11&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=yzd11&column=7" alt="yzd11's Github Trophy" />
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yzd11&column=7)
 
+![Streak Stats](https://streak-stats.demolab.com/?user=yzd11&theme=dark&hide_border=true)
 
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=yzd11&theme=light&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=yzd11&theme=dark&hide_border=true" />
-</picture>
+![CSDN Stats](https://stats.justsong.cn/api/leetcode?username=yzd11&cn=true&line_height=21)
 
-<img align="center" src="https://stats.justsong.cn/api/csdn?username=letcode&cn=true&line_height=21" />
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=yzd11&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yzd11&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yzd11&theme=tokyo-night" />
-      </picture>
-  </tr>
-</table>
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yzd11&theme=tokyo-night)
 
 </details>
-  
-<hr>
+
+---
+
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://github.com/yzd11/yzd11.github.io/"><img src="https://www.jianguoyun.com/c/tblv2/B3_QCt7I0coaP8yA199pmO02pY-vY5Qu0IUZ33CeyI2rwFFm1JPyyMDfy6M5J__rpkkOmA/Y7b1Gb7cRsZ1pbxpY8423qF9u60JRTLfZ0l4vPsxRV0/l"/></a>
-<a href= "https://blog.csdn.net/yzd111/"><img src="https://www.jianguoyun.com/c/tblv2/9uroh3pUiEGX-ALSkzI_tCw8KhoRjC_OyjBCWtsh8v1ZPgVXv9NBUUwGBCNa/uYx6SSe-SVgPrLBClqX8yWnFlX3rGjkMUY621Q9kSpw/l"/></a>
-<a href= "https://www.yuque.com/yzd11/myblog/"><img src="https://www.jianguoyun.com/c/tblv2/phTmLt15zeYMa6xTuwfS5ctYNL9l-EJ14aa6uqCtUb9xnGot0M_D1gVXeR0vX2U/lCEofXbXkBGUMo2mMr9OoBI2wAbMIL1vckhUfNP7Wno/l"/></a>
-<a href= "https://yzd.life/"><img src="https://www.jianguoyun.com/c/tblv2/XX9eK5n3CzUUMEe4PZgBonS9fN--1w9NeK4iNL1XZRiFITKC_RZz2EJ_ahjm_ig/gZzKXf2oQSUahnELOJ3_FkI7ElLw5wG3Tn8ptE96aPA/l"/></a>
+<a href="https://github.com/yzd11/yzd11.github.io/"><img src="https://www.jianguoyun.com/c/tblv2/B3_QCt7I0coaP8yA199pmO02pY-vY5Qu0IUZ33CeyI2rwFFm1JPyyMDfy6M5J__rpkkOmA/Y7b1Gb7cRsZ1pbxpY8423qF9u60JRTLfZ0l4vPsxRV0/l"/></a>
+<a href="https://blog.csdn.net/yzd111/"><img src="https://www.jianguoyun.com/c/tblv2/9uroh3pUiEGX-ALSkzI_tCw8KhoRjC_OyjBCWtsh8v1ZPgVXv9NBUUwGBCNa/uYx6SSe-SVgPrLBClqX8yWnFlX3rGjkMUY621Q9kSpw/l"/></a>
+<a href="https://www.yuque.com/yzd11/myblog/"><img src="https://www.jianguoyun.com/c/tblv2/phTmLt15zeYMa6xTuwfS5ctYNL9l-EJ14aa6uqCtUb9xnGot0M_D1gVXeR0vX2U/lCEofXbXkBGUMo2mMr9OoBI2wAbMIL1vckhUfNP7Wno/l"/></a>
+<a href="https://yzd.life/"><img src="https://www.jianguoyun.com/c/tblv2/XX9eK5n3CzUUMEe4PZgBonS9fN--1w9NeK4iNL1XZRiFITKC_RZz2EJ_ahjm_ig/gZzKXf2oQSUahnELOJ3_FkI7ElLw5wG3Tn8ptE96aPA/l"/></a>
 </p>
 
-<p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=yzd11.yzd11" alt="visitor badge"/>-->
+<p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=yzd11.yzd11" alt="visitor badge"/>       
 </p>
-
-</p>
-
----
-
