@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![](https://www.jianguoyun.com/c/tblv2/ZzVOiYjuvOj3P5RPGiW_hKwApZ2GOzUkqBz4bbP1ARHFb5Wn8_HU0ygDS6nfoJg39_gdfwni/nQir_mWOtAanCCKiS1kCEnzPzlMjoUrdXu9KWW-UKLE/l)
 
 I am a junior software engineering student with some knowledge of java backend development and am currently learning about the field of machine learning.
 
@@ -30,10 +30,10 @@ I am a junior software engineering student with some knowledge of java backend d
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://github.com/yzd11/yzd11.github.io/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://blog.csdn.net/yzd111/"><img src="https://www.jianguoyun.com/p/DYvceQ0QrdTYDBjG598FIAA"/></a>
-<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://yzd.life"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://github.com/yzd11/yzd11.github.io/"><img src="https://www.jianguoyun.com/c/tblv2/B3_QCt7I0coaP8yA199pmO02pY-vY5Qu0IUZ33CeyI2rwFFm1JPyyMDfy6M5J__rpkkOmA/Y7b1Gb7cRsZ1pbxpY8423qF9u60JRTLfZ0l4vPsxRV0/l"/></a>
+<a href= "https://blog.csdn.net/yzd111/"><img src="https://www.jianguoyun.com/c/tblv2/9uroh3pUiEGX-ALSkzI_tCw8KhoRjC_OyjBCWtsh8v1ZPgVXv9NBUUwGBCNa/uYx6SSe-SVgPrLBClqX8yWnFlX3rGjkMUY621Q9kSpw/l"/></a>
+<a href= "https://https://www.yuque.com/yzd11/myblog/"><img src="https://www.jianguoyun.com/c/tblv2/phTmLt15zeYMa6xTuwfS5ctYNL9l-EJ14aa6uqCtUb9xnGot0M_D1gVXeR0vX2U/lCEofXbXkBGUMo2mMr9OoBI2wAbMIL1vckhUfNP7Wno/l"/></a>
+<a href= "https://yzd.life/"><img src="https://www.jianguoyun.com/c/tblv2/XX9eK5n3CzUUMEe4PZgBonS9fN--1w9NeK4iNL1XZRiFITKC_RZz2EJ_ahjm_ig/gZzKXf2oQSUahnELOJ3_FkI7ElLw5wG3Tn8ptE96aPA/l"/></a>
 </p>
 
 <p  align="center">
