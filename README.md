@@ -1,4 +1,5 @@
-# Hello there 👋
+# 🙋 Hello there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+computer+world+!;Computers+are+not+magic+!)
 
 ![](https://www.jianguoyun.com/c/tblv2/ZzVOiYjuvOj3P5RPGiW_hKwApZ2GOzUkqBz4bbP1ARHFb5Wn8_HU0ygDS6nfoJg39_gdfwni/nQir_mWOtAanCCKiS1kCEnzPzlMjoUrdXu9KWW-UKLE/l)
 
@@ -17,11 +18,33 @@ I am a junior software engineering student with some knowledge of java backend d
 
 * 👑   Some GitHub statistical reports:
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzd11&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yzd11&line_height=21" alt="yzd11's Github Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yzd11&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yzd11&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=yzd11&column=7" alt="yzd11's Github Trophy" />
-</p>
+
+
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=yzd11&theme=light&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=yzd11&theme=dark&hide_border=true" />
+</picture>
+
+<img align="center" src="https://stats.justsong.cn/api/csdn?username=letcode&cn=true&line_height=21" />
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=yzd11&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yzd11&theme=xcode" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yzd11&theme=tokyo-night" />
+      </picture>
+  </tr>
+</table>
+
 
 </details>
   
