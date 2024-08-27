@@ -55,8 +55,8 @@ I am a junior software engineering student with knowledge in Java backend develo
 <p align="center">
 <a href="https://github.com/yzd11/yzd11.github.io/"><img src="https://www.jianguoyun.com/c/tblv2/B3_QCt7I0coaP8yA199pmO02pY-vY5Qu0IUZ33CeyI2rwFFm1JPyyMDfy6M5J__rpkkOmA/Y7b1Gb7cRsZ1pbxpY8423qF9u60JRTLfZ0l4vPsxRV0/l"/></a>
 <a href="https://blog.csdn.net/yzd111/"><img src="https://www.jianguoyun.com/c/tblv2/9uroh3pUiEGX-ALSkzI_tCw8KhoRjC_OyjBCWtsh8v1ZPgVXv9NBUUwGBCNa/uYx6SSe-SVgPrLBClqX8yWnFlX3rGjkMUY621Q9kSpw/l"/></a>
-<a href="https://www.yuque.com/yzd11/myblog/"><img src="https://www.jianguoyun.com/c/tblv2/phTmLt15zeYMa6xTuwfS5ctYNL9l-EJ14aa6uqCtUb9xnGot0M_D1gVXeR0vX2U/lCEofXbXkBGUMo2mMr9OoBI2wAbMIL1vckhUfNP7Wno/l"/></a>
-<a href="https://yzd.life/"><img src="https://www.jianguoyun.com/c/tblv2/XX9eK5n3CzUUMEe4PZgBonS9fN--1w9NeK4iNL1XZRiFITKC_RZz2EJ_ahjm_ig/gZzKXf2oQSUahnELOJ3_FkI7ElLw5wG3Tn8ptE96aPA/l"/></a>
+<a href="https://www.yuque.com/yzd11/myblog/"><img src="https://www.jianguoyun.com/c/tblv2/v678japs7a2QDDBE4KIhVwsSzOo2RXjXd0ojIrxrOn2G2d0W1ebP3go-lVKtVMA/WLPPocdppq3UsF_hCV_8G4FIn7PKd8t5QlEStfCS66E/l"/></a>
+<a href="https://yzd.life/"><img src="https://www.jianguoyun.com/c/tblv2/wkpKhpBNbojXxg8M3VL8DnLZHO-8tuo9KmaHcet0g-vVOkwew7AXJMtpV0JbRi4/9LZW45940sbZJ54Q0Pn_4CgLVCOSUP-wP0xdhKrPAH0/l"/></a>
 </p>
 
 <p align="center">
