@@ -34,7 +34,7 @@ I am a junior software engineering student with knowledge in Java backend develo
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=yzd11&theme=dark&hide_border=true)
 
-![CSDN Stats](https://stats.justsong.cn/api/csdn?username=yzd111&cn=true&line_height=21)
+![CSDN Stats](https://stats.justsong.cn/api/leetcode?username=yzd11&cn=true&line_height=21)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yzd11&theme=tokyo-night)
 
@@ -54,7 +54,7 @@ I am a junior software engineering student with knowledge in Java backend develo
 
 <p align="center">
 <a href="https://github.com/yzd11/yzd11.github.io/"><img src="https://sm.ms/image/wEHgTzIk3JFoUj9"/></a>
-<a href="https://blog.csdn.net/yzd111/"><img src="https://sm.ms/image/wEHgTzIk3JFoUj9"/></a>
+<a href="https://blog.csdn.net/yzd111/"><img src="https://s2.loli.net/2024/11/10/7HwgVvTXDEQc6LC.png"/></a>
 <a href="https://www.yuque.com/yzd11/myblog/"><img src="https://sm.ms/image/7HwgVvTXDEQc6LC"/></a>
 <a href="https://yzd.life/"><img src="https://sm.ms/image/NPKeAzWZsU64kdM"/></a>
 </p>
