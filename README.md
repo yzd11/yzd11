@@ -1,6 +1,6 @@
 # 🙋 Hello there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+computer+world+!;Computers+are+not+magic+!)
-![](https://www.jianguoyun.com/c/tblv2/ZzVOiYjuvOj3P5RPGiW_hKwApZ2GOzUkqBz4bbP1ARHFb5Wn8_HU0ygDS6nfoJg39_gdfwni/nQir_mWOtAanCCKiS1kCEnzPzlMjoUrdXu9KWW-UKLE/l)
+![](https://sm.ms/image/8zu59327XwFhUtD)
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
@@ -34,7 +34,7 @@ I am a junior software engineering student with knowledge in Java backend develo
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=yzd11&theme=dark&hide_border=true)
 
-![CSDN Stats](https://stats.justsong.cn/api/leetcode?username=yzd11&cn=true&line_height=21)
+![CSDN Stats](https://stats.justsong.cn/api/csdn?username=yzd111&cn=true&line_height=21)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yzd11&theme=tokyo-night)
 
@@ -53,10 +53,10 @@ I am a junior software engineering student with knowledge in Java backend develo
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href="https://github.com/yzd11/yzd11.github.io/"><img src="https://www.jianguoyun.com/c/tblv2/B3_QCt7I0coaP8yA199pmO02pY-vY5Qu0IUZ33CeyI2rwFFm1JPyyMDfy6M5J__rpkkOmA/Y7b1Gb7cRsZ1pbxpY8423qF9u60JRTLfZ0l4vPsxRV0/l"/></a>
-<a href="https://blog.csdn.net/yzd111/"><img src="https://www.jianguoyun.com/c/tblv2/9uroh3pUiEGX-ALSkzI_tCw8KhoRjC_OyjBCWtsh8v1ZPgVXv9NBUUwGBCNa/uYx6SSe-SVgPrLBClqX8yWnFlX3rGjkMUY621Q9kSpw/l"/></a>
-<a href="https://www.yuque.com/yzd11/myblog/"><img src="https://www.jianguoyun.com/c/tblv2/YxHxgUNgrvshPtSSOwpsHArfbqGNJ7Ez0zQR7Zx7i8N4bKEt56eZm2jy7xs-dxI/GGzBnfDeOHocd0se37OZ4v9UuB2JT2kcgHcJNY8Maqg/l"/></a>
-<a href="https://yzd.life/"><img src="https://www.jianguoyun.com/c/tblv2/wkpKhpBNbojXxg8M3VL8DnLZHO-8tuo9KmaHcet0g-vVOkwew7AXJMtpV0JbRi4/9LZW45940sbZJ54Q0Pn_4CgLVCOSUP-wP0xdhKrPAH0/l"/></a>
+<a href="https://github.com/yzd11/yzd11.github.io/"><img src="https://sm.ms/image/wEHgTzIk3JFoUj9"/></a>
+<a href="https://blog.csdn.net/yzd111/"><img src="https://sm.ms/image/wEHgTzIk3JFoUj9"/></a>
+<a href="https://www.yuque.com/yzd11/myblog/"><img src="https://sm.ms/image/7HwgVvTXDEQc6LC"/></a>
+<a href="https://yzd.life/"><img src="https://sm.ms/image/NPKeAzWZsU64kdM"/></a>
 </p>
 
 <p align="center">
