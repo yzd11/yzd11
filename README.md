@@ -34,7 +34,7 @@ I am a junior software engineering student with knowledge in Java backend develo
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=yzd11&theme=dark&hide_border=true)
 
-![CSDN Stats](https://stats.justsong.cn/api/leetcode?username=yzd11&cn=true&line_height=21)
+![LeetCode Stats](https://stats.justsong.cn/api/leetcode?username=yzd11&cn=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yzd11&theme=tokyo-night)
 
