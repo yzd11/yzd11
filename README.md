@@ -1,6 +1,6 @@
 # 🙋 Hello there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+computer+world+!;Computers+are+not+magic+!)
-![](https://sm.ms/image/8zu59327XwFhUtD)
+![](https://s2.loli.net/2024/11/10/8zu59327XwFhUtD.png)
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
@@ -53,10 +53,10 @@ I am a junior software engineering student with knowledge in Java backend develo
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href="https://github.com/yzd11/yzd11.github.io/"><img src="https://sm.ms/image/wEHgTzIk3JFoUj9"/></a>
-<a href="https://blog.csdn.net/yzd111/"><img src="https://s2.loli.net/2024/11/10/7HwgVvTXDEQc6LC.png"/></a>
-<a href="https://www.yuque.com/yzd11/myblog/"><img src="https://sm.ms/image/7HwgVvTXDEQc6LC"/></a>
-<a href="https://yzd.life/"><img src="https://sm.ms/image/NPKeAzWZsU64kdM"/></a>
+<a href="https://github.com/yzd11/yzd11.github.io/"><img src="https://s2.loli.net/2024/11/10/wEHgTzIk3JFoUj9.png"/></a>
+<a href="https://blog.csdn.net/yzd111/"><img src="https://s2.loli.net/2024/11/10/iadYOfQu3SnRK1C.png"/></a>
+<a href="https://www.yuque.com/yzd11/myblog/"><img src="https://s2.loli.net/2024/11/10/7HwgVvTXDEQc6LC.png"/></a>
+<a href="https://yzd.life/"><img src="https://s2.loli.net/2024/11/10/NPKeAzWZsU64kdM.png"/></a>
 </p>
 
 <p align="center">
