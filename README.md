@@ -16,7 +16,7 @@ I am a junior software engineering student with knowledge in Java backend develo
 * 📚 Reading *Computer Networks, Seventh Edition*.
 * 💻 Two or more years of computer science literacy studies.
 * ⛵ Encouraging open-source collaborations.
-* ✍🏻 Writing about Programming & Tech on [Personal Blog](https://yzd.life/).
+* ✍🏻 Writing about Programming & Tech on [Personal Blog](https://yzd11.github.io/).
 
 <details>
   <summary>Some other achievements about me</summary>
