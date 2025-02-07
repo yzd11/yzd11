@@ -32,8 +32,6 @@ I am a junior software engineering student with knowledge in Java backend develo
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yzd11&column=7)
 
-![Streak Stats](https://streak-stats.demolab.com/?user=yzd11&theme=dark&hide_border=true)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yzd11&theme=tokyo-night)
 
 <!-- profile-3d-contrib 3D 贡献图-->
