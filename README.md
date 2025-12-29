@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://s2.loli.net/2024/11/10/8zu59327XwFhUtD.png" width="600" alt="Banner">
+  <img src="https://s2.loli.net/2024/11/10/8zu59327XwFhUtD.png" width="1200" alt="Banner">
 </p>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 - 全屏适配+有效链接 -->
@@ -52,10 +52,26 @@ I am a **Junior** Software Engineering student with expertise in **Java Backend 
 <br>
 
 <details>
-  <summary>📊 My GitHub Achievements & Contribution</summary>
+  <summary>📊 My GitHub Achievements & Contribution (Full Stats)</summary>
   <br>
 
-<!-- 3D贡献图 永久有效+全屏适配+美观度拉满 -->
+<!-- 1. GitHub 核心数据统计卡片 -->
+
+<!-- 2. 编程语言使用排行 -->
+
+<!-- 3. GitHub 成就奖杯墙 -->
+
+<!-- 4. GitHub 连续提交打卡统计 -->
+<br>
+
+<!-- 5. GitHub 年度贡献活动趋势图 -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yzd11&theme=github-dark&hide_border=true&area=true&color=ffffff&line=ffffff&point=ffffff" alt="GitHub Activity Graph" width="800">
+</p>
+
+<br>
+
+<!-- 6. 你的3D贡献图 保留+全屏适配 -->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yzd11/yzd11/main/profile-3d-contrib/profile-night-rainbow.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yzd11/yzd11/main/profile-3d-contrib/profile-gitblock.svg">
