@@ -5,68 +5,84 @@
 </p>
 
 <p align="center">
-  <img src="https://s2.loli.net/2024/11/10/8zu59327XwFhUtD.png" width="600">
+  <img src="https://s2.loli.net/2024/11/10/8zu59327XwFhUtD.png" width="600" alt="Banner">
 </p>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 - 全屏适配+有效链接 -->
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yzd11/yzd11/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yzd11/yzd11/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yzd11/yzd11/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/yzd11/yzd11/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-I am a **junior** software engineering student with expertise in **Java backend development** and currently diving deep into **Machine Learning & AI**.
+<br>
 
-* 💼 junior @ Zhengzhou University of Light Industry (Software Engineering)
+I am a **Junior** Software Engineering student with expertise in **Java Backend Development** and currently diving deep into **Machine Learning & AI**.
+
+* 💼 Junior @ Zhengzhou University of Light Industry (Software Engineering)
 * 🌱 Learning: Machine Learning, Java EE, Operating Systems, Computer Networks, Data Structures & Algorithms, Computer Organization Principles
 * 💻 3+ years of systematic CS learning & hands-on coding experience
 * ⛵ Passionate about **Open Source** & Technical Collaboration
-* ✍🏻 Share Programming & Tech notes on [Personal Blog](https://yzd11.github.io/)
+* ✍🏻 Share Programming & Tech Notes on [Personal Blog](https://yzd11.github.io/)
 
-### 🚀 Current Learning & Projects (Senior Phase)
-* 🔨 Java Backend: Spring Boot / MyBatis-Plus / MySQL Optimization / Project Practice
-* 🤖 Machine Learning: Python (NumPy/Pandas/Matplotlib) / Scikit-learn / TensorFlow & PyTorch basics
-* 📖 CS Core: Deep dive into professional core courses for postgraduate entrance examination & job hunting preparation
-* 💡 Side Project: Personal tech blog maintenance & ML small demos / Graduation Project development (repo updating...)
+<br>
 
-### 🛠️ Tech Stack & Skills
+### 🚀 Current Learning & Projects (Junior Phase)
+* 🔨 Java Backend: Spring Boot / MyBatis-Plus / MySQL Optimization / Practical Project Development
+* 🤖 Machine Learning: Python (NumPy/Pandas/Matplotlib) / Scikit-learn / TensorFlow & PyTorch Basics
+* 📖 CS Core: In-depth study of professional core courses for further study & competence improvement
+* 💡 Side Project: Personal Tech Blog Maintenance | ML Mini Demos (Repository Updating...)
+
+<br>
+
+### 🛠️ Tech Stack & Core Skills
 <p align="left">
-  <code><img src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white" alt="Java"></code>
-  <code><img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?logo=springboot&logoColor=white" alt="SpringBoot"></code>
-  <code><img src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" alt="MySQL"></code>
-  <code><img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python"></code>
-  <code><img src="https://img.shields.io/badge/ML-AI-blue.svg?logo=machine-learning&logoColor=white" alt="Machine Learning"></code>
-  <code><img src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black" alt="Linux"></code>
-  <code><img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white" alt="Git"></code>
+  &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white" alt="Java"></code>
+  &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?logo=springboot&logoColor=white" alt="SpringBoot"></code>
+  &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" alt="MySQL"></code>
+  &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python"></code>
+  &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/Machine%20Learning-0066CC.svg?logo=machine-learning&logoColor=white" alt="ML"></code>
+  <br>
+  &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black" alt="Linux"></code>
+  &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white" alt="Git"></code>
+  &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" alt="GitHub"></code>
+  &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" alt="Markdown"></code>
 </p>
 
+<br>
+
 <details>
-  <summary>📊 Some other achievements about me</summary>
+  <summary>📊 My GitHub Achievements & Contribution</summary>
   <br>
 
-* 👑 GitHub statistical reports:
-
-<!-- 3D贡献图 永久有效链接+加载正常 -->
-<picture>
+<!-- 3D贡献图 永久有效+全屏适配+美观度拉满 -->
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yzd11/yzd11/main/profile-3d-contrib/profile-night-rainbow.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yzd11/yzd11/main/profile-3d-contrib/profile-gitblock.svg">
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/yzd11/yzd11/main/profile-3d-contrib/profile-gitblock.svg" width="100%">
+  <img alt="GitHub 3D Contribution Graph" src="https://raw.githubusercontent.com/yzd11/yzd11/main/profile-3d-contrib/profile-gitblock.svg" width="100%">
 </picture>
 
 </details>
 
+<br>
+<br>
+
 ---
 
 <p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
-
-<p align="center">
-<a href="https://github.com/yzd11/yzd11.github.io/"><img src="https://s2.loli.net/2024/11/10/wEHgTzIk3JFoUj9.png" width="40" height="40"></a>
-<a href="https://blog.csdn.net/yzd111/"><img src="https://s2.loli.net/2024/11/10/iadYOfQu3SnRK1C.png" width="40" height="40"></a>
-<a href="https://www.yuque.com/yzd11/myblog/"><img src="https://s2.loli.net/2024/11/10/7HwgVvTXDEQc6LC.png" width="40" height="40"></a>
-<a href="https://yzd.life/"><img src="https://s2.loli.net/2024/11/10/NPKeAzWZsU64kdM.png" width="40" height="40"></a>
+  <i>✨ Take a look at my repositories and let's connect for tech & collaboration!</i>
 </p>
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=yzd11.yzd11" alt="visitor badge"/>       
+  <a href="https://github.com/yzd11/yzd11.github.io/"><img src="https://s2.loli.net/2024/11/10/wEHgTzIk3JFoUj9.png" width="42" height="42" alt="Blog"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://blog.csdn.net/yzd111/"><img src="https://s2.loli.net/2024/11/10/iadYOfQu3SnRK1C.png" width="42" height="42" alt="CSDN"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.yuque.com/yzd11/myblog/"><img src="https://s2.loli.net/2024/11/10/7HwgVvTXDEQc6LC.png" width="42" height="42" alt="Yuque"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://yzd.life/"><img src="https://s2.loli.net/2024/11/10/NPKeAzWZsU64kdM.png" width="42" height="42" alt="Personal Site"></a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yzd11.yzd11" alt="Visitor Badge" style="margin-top:15px;"/>
 </p>
