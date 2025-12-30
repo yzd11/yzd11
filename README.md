@@ -64,7 +64,10 @@ I am a **Junior** Software Engineering student with expertise in **Java Backend 
 <!-- 4. GitHub 连续提交打卡统计 -->
 <!-- ✅ 核心全能统计卡片 - 完美排版+居中+黄金宽度 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yzd11/yzd11/main/metrics.full.svg" alt="My GitHub Full Metrics" width="800" style="border-radius:8px;">
+  <img src="https://raw.githubusercontent.com/yzd11/yzd11/main/metrics.full.svg" 
+       alt="My GitHub Full Metrics" 
+       width="600" 
+       style="border-radius: 12px; background-color: rgba(0,0,0,0.2); padding: 10px;">
 </p>
 
 <br><br>
