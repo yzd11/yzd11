@@ -62,10 +62,12 @@ I am a **Junior** Software Engineering student with expertise in **Java Backend 
 <!-- 3. GitHub 成就奖杯墙 -->
 
 <!-- 4. GitHub 连续提交打卡统计 -->
+<!-- ✅ 核心全能统计卡片 - 完美排版+居中+黄金宽度 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yzd11/yzd11/main/metrics.plugin.achievements.compact.svg" alt="GitHub Achievements (Compact)" width="600">
+  <img src="https://raw.githubusercontent.com/yzd11/yzd11/main/metrics.full.svg" alt="My GitHub Full Metrics" width="800" style="border-radius:8px;">
 </p>
-<br>
+
+<br><br>
 
 <!-- 5. GitHub 年度贡献活动趋势图 -->
 <p align="center">
