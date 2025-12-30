@@ -2,9 +2,8 @@ name: Metrics
 
 on:
   schedule:
-    # 每天 UTC 0 点更新一次
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # 每天更新一次
+  workflow_dispatch:     # 手动触发
 
 jobs:
   build:
@@ -12,8 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Generate metrics
         uses: lowlighter/metrics@latest
@@ -22,7 +20,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut
+          # 取消过滤，先显示所有成就
+          # plugin_achievements_only: sponsor, maintainer, octonaut
           plugin_languages: yes
           plugin_languages_details: bytes, percentage
           plugin_streak: yes
