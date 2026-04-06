@@ -17,21 +17,23 @@
 
 <br>
 
-I am a **Junior** Software Engineering student with expertise in **Java Backend Development** and currently diving deep into **Machine Learning & AI**.
+I am a **senior undergraduate** and a **2026 Master's freshman** passionate about **Deep Learning & Medical Image Segmentation** and **Java Backend Development**.
 
-* 💼 Junior @ Zhengzhou University of Light Industry (Software Engineering)
-* 🌱 Learning: Machine Learning, Java EE, Operating Systems, Computer Networks, Data Structures & Algorithms, Computer Organization Principles
+* 🎓 Senior @ Zhengzhou University of Light Industry (Software Engineering)
+* 🎓 2026 Master's Freshman @ Nanjing University of Posts and Telecommunications
+* 🌱 Learning: Deep Learning, PyTorch, Medical Image Segmentation, Computer Vision, Java EE
 * 💻 3+ years of systematic CS learning & hands-on coding experience
-* ⛵ Passionate about **Open Source** & Technical Collaboration
-* ✍🏻 Share Programming & Tech Notes on [Personal Blog](https://yzd11.github.io/)
+* ⛵ Focusing on scientific research & engineering practice in deep learning
+* ✍🏻 Sharing tech notes & project summaries on [Personal Blog](sslocal://flow/file_open?url=https%3A%2F%2Fyzd11.github.io%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 
 <br>
 
-### 🚀 Current Learning & Projects (Junior Phase)
-* 🔨 Java Backend: Spring Boot / MyBatis-Plus / MySQL Optimization / Practical Project Development
-* 🤖 Machine Learning: Python (NumPy/Pandas/Matplotlib) / Scikit-learn / TensorFlow & PyTorch Basics
-* 📖 CS Core: In-depth study of professional core courses for further study & competence improvement
-* 💡 Side Project: Personal Tech Blog Maintenance | ML Mini Demos (Repository Updating...)
+### 🚀 Current Learning & Projects
+* 🔬 Graduation Project: Deep Learning-based Medical Image Tumor Segmentation (U-Net, PyTorch)
+* 🤖 Deep Learning: PyTorch, Medical Image Processing, Semantic Segmentation, Model Optimization
+* 💼 Java Backend: Spring Boot, MyBatis-Plus, MySQL, Database Optimization
+* 📖 Research Preparation: Computer Vision, Deep Learning Fundamentals, Scientific Experiment Design
+* 💡 Side Project: Personal Tech Blog | Medical Image Segmentation Demos
 
 <br>
 
@@ -41,8 +43,9 @@ I am a **Junior** Software Engineering student with expertise in **Java Backend 
   &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?logo=springboot&logoColor=white" alt="SpringBoot"></code>
   &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" alt="MySQL"></code>
   &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python"></code>
-  &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/Machine%20Learning-0066CC.svg?logo=machine-learning&logoColor=white" alt="ML"></code>
+  &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white" alt="PyTorch"></code>
   <br>
+  &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/Deep%20Learning-0066CC.svg?logo=tensorflow&logoColor=white" alt="Deep Learning"></code>
   &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black" alt="Linux"></code>
   &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white" alt="Git"></code>
   &nbsp;&nbsp;<code><img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" alt="GitHub"></code>
@@ -55,14 +58,6 @@ I am a **Junior** Software Engineering student with expertise in **Java Backend 
   <summary>📊 My GitHub Achievements & Contribution (Full Stats)</summary>
   <br>
 
-<!-- 1. GitHub 核心数据统计卡片 -->
-
-<!-- 2. 编程语言使用排行 -->
-
-<!-- 3. GitHub 成就奖杯墙 -->
-
-<!-- 4. GitHub 连续提交打卡统计 -->
-<!-- ✅ 核心全能统计卡片 - 完美排版+居中+黄金宽度 -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/yzd11/yzd11/main/metrics.full.svg" 
        alt="My GitHub Full Metrics"  
@@ -71,14 +66,12 @@ I am a **Junior** Software Engineering student with expertise in **Java Backend 
 
 <br><br>
 
-<!-- 5. GitHub 年度贡献活动趋势图 -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yzd11&theme=github-dark&hide_border=true&area=true&color=ffffff&line=ffffff&point=ffffff" alt="GitHub Activity Graph" width="800">
 </p>
 
 <br>
 
-<!-- 6. 你的3D贡献图 保留+全屏适配 -->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yzd11/yzd11/main/profile-3d-contrib/profile-night-rainbow.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yzd11/yzd11/main/profile-3d-contrib/profile-gitblock.svg">
