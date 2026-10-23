@@ -1,25 +1,12 @@
-# 👋 Hi, I'm yzd11
+# Hi, I'm yzd11 👋
+
+I'm a master's student at Nanjing University of Posts and
+Telecommunications (NJUPT). My research focuses on **Edge Intelligence**.
+
+🎓 **Education**
+- **2026 – Present** · M.S. in Computer Science, NJUPT
+- **2022 – 2026** · B.S. in Software Engineering, ZZULI
 
 ---
 
-## 🎓 Education
-
-- **2026 – Present** &nbsp; M.S. in Computer Science @ **NJUPT** (南京邮电大学)
-- **2022 – 2026** &nbsp; B.S. in Software Engineering @ **ZZULI** (郑州轻工业大学)
-
-
-## ✍️ Blog
-
-&nbsp;&nbsp;
-<a href="https://yzd11.github.io/"><img src="https://img.shields.io/badge/Blog-333333?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-&nbsp;
-<a href="https://blog.csdn.net/yzd111/"><img src="https://img.shields.io/badge/CSDN-333333?style=for-the-badge&logo=c&logoColor=white"></a>
-&nbsp;
-<a href="https://www.yuque.com/yzd11/myblog/"><img src="https://img.shields.io/badge/Yuque-333333?style=for-the-badge&logo=youtrack&logoColor=white"></a>
-
----
-
-<p align="center">
-  <i>Computers are not magic.</i>
-</p>
-
+*Computers are not magic.*
